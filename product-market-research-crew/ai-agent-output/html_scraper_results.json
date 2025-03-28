@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "page_url": "https://www.amazon.eg/-/en/Delonghi-Espresso-Coffee-Machine-Warranty/dp/B06X3Z9MF3",
+      "product_title": "Delonghi Espresso and Coffee Machine 1350 watts- Black- 1 Year Warranty",
+      "product_price": "EGP11,293.00",
+      "old_product_price": "",
+      "product_image_url": "https://m.media-amazon.com/images/I/61ZhjaVsE5L._AC_UF894,1000_QL80_.jpg",
+      "product_discount": "",
+      "product_specs": [
+        {
+          "name": "Capacity",
+          "value": "1 Liters"
+        },
+        {
+          "name": "Item Dimensions D x W x H",
+          "value": "30.3D x 33W x 14.9H centimeters"
+        },
+        {
+          "name": "Item Weight",
+          "value": "4.2 kg"
+        },
+        {
+          "name": "Number of Items",
+          "value": "1"
+        },
+        {
+          "name": "Brand",
+          "value": "De'Longhi"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_reason": "Highly rated product with positive customer reviews and good specifications."
+    },
+    {
+      "page_url": "https://www.amazon.eg/-/en/Mienta-CM31416A-Coffee-Maker-Watt/dp/B084ZVT53R",
+      "product_title": "Mienta CM31416A 1 Cup Coffee Maker, 300 Watt - Black",
+      "product_price": "EGP 640.00",
+      "old_product_price": "EGP 899.00",
+      "product_image_url": "https://m.media-amazon.com/images/I/71iUffpu-7L._AC_UF894,1000_QL80_.jpg",
+      "product_discount": "29%",
+      "product_specs": [
+        {
+          "name": "Capacity",
+          "value": "1 Cups"
+        },
+        {
+          "name": "Item Dimensions D x W x H",
+          "value": "14.4D x 12.7W x 19.6H centimeters"
+        },
+        {
+          "name": "Item Weight",
+          "value": "750 Grams"
+        },
+        {
+          "name": "Number of Items",
+          "value": "1"
+        },
+        {
+          "name": "Brand",
+          "value": "Mienta"
+        }
+      ],
+      "agent_recommendation_rank": 0,
+      "agent_recommendation_reason": "No specific recommendation reason provided. Default reason"
+    },
+    {
+      "page_url": "https://www.amazon.eg/-/en/Black-Decker-DCM85-B5-Programmable-Display/dp/B07TKKDYN3",
+      "product_title": "Black & Decker DCM85-B5 Programmable Display",
+      "product_price": "EGP2,999.00",
+      "old_product_price": "EGP3,599.00",
+      "product_image_url": "https://m.media-amazon.com/images/I/410QagVlfmL.jpg",
+      "product_discount": "17%",
+      "product_specs": [
+        {
+          "name": "Brand",
+          "value": "Black & Decker"
+        },
+        {
+          "name": "Model",
+          "value": "DCM85-B5"
+        },
+        {
+          "name": "Display",
+          "value": "Programmable"
+        },
+        {
+          "name": "Power",
+          "value": "900W"
+        },
+        {
+          "name": "Display",
+          "value": "LCD"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_reason": "Highly rated product with good reviews and a significant discount."
+    }
+  ]
+}
